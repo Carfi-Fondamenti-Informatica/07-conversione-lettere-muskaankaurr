@@ -8,7 +8,7 @@ bool carattere (char&a)  {
     } else if ( (a > 96) && ( a < 123)){
         a = a - 32;
         segnalibro = true;
-
+ 
     }else {
         segnalibro = false ;
     } return segnalibro;
