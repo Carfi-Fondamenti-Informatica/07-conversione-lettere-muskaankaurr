@@ -9,7 +9,7 @@ bool carattere (char &a) {
     a = a - 32;
     segnalibro = true;
     
-   }else {
+   } else {
     segnalibro = false;
-   }return segnalibro;
+   } return segnalibro;
   }
